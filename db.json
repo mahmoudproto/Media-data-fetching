@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "his myra"
+    },
+    {
+      "id": 2,
+      "name": "om myra"
+    },
+    {
+      "name": "Terry Herzog",
+      "id": 3
+    },
+    {
+      "name": "Erica Bode",
+      "id": 4
+    },
+    {
+      "name": "Faye Zboncak",
+      "id": 5
+    },
+    {
+      "name": "Caroline Boyer",
+      "id": 6
+    },
+    {
+      "name": "Amy Rippin",
+      "id": 7
+    },
+    {
+      "name": "Jerry Zboncak",
+      "id": 8
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
