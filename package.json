@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@faker-js/faker": "7.6.0",
+    "@faker-js/faker": "^9.6.0",
     "@reduxjs/toolkit": "^1.9.7",
     "@tailwindcss/vite": "^4.0.12",
     "@testing-library/jest-dom": "^5.16.5",
