@@ -1,6 +1,6 @@
 {
-  "name": "media-data-fetching",
-  "homepage": "https://mahmoudproto.github.io/media-data-fetching/",
+  "name": "Media-data-fetching",
+  "homepage": "https://mahmoudproto.github.io/Media-data-fetching/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
