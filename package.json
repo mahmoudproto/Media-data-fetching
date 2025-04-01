@@ -1,5 +1,5 @@
 {
-  "name": "media",
+  "name": "media-data-fetching",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,7 +25,9 @@
     "start:server": "json-server --watch db.json --port 3005",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
