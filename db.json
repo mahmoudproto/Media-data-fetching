@@ -1,38 +1,170 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "his myra"
-    },
-    {
       "id": 2,
       "name": "om myra"
     },
     {
-      "name": "Terry Herzog",
-      "id": 3
-    },
-    {
-      "name": "Erica Bode",
+      "name": "Meghan Gulgowski",
       "id": 4
     },
     {
-      "name": "Faye Zboncak",
+      "name": "Janet Flatley",
       "id": 5
-    },
-    {
-      "name": "Caroline Boyer",
-      "id": 6
-    },
-    {
-      "name": "Amy Rippin",
-      "id": 7
-    },
-    {
-      "name": "Jerry Zboncak",
-      "id": 8
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 4,
+      "title": "Handmade Granite Cheese",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "title": "Handcrafted Wooden Fish",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "title": "Elegant Frozen Bike",
+      "id": 16
+    },
+    {
+      "userId": 2,
+      "title": "Luxurious Cotton Computer",
+      "id": 17
+    },
+    {
+      "userId": 4,
+      "title": "Recycled Metal Fish",
+      "id": 18
+    },
+    {
+      "userId": 5,
+      "title": "Bespoke Rubber Computer",
+      "id": 19
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 14,
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/72.jpg",
+      "id": 8
+    },
+    {
+      "albumId": 14,
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/56.jpg",
+      "id": 9
+    },
+    {
+      "albumId": 14,
+      "url": "https://picsum.photos/seed/0.04083321400234552/150/150",
+      "id": 14
+    },
+    {
+      "albumId": 14,
+      "url": "https://picsum.photos/seed/0.5643592736083207/150/150",
+      "id": 17
+    },
+    {
+      "albumId": 16,
+      "url": "https://picsum.photos/seed/0.8822069995804096/150/150",
+      "id": 24
+    },
+    {
+      "albumId": 16,
+      "url": "https://picsum.photos/seed/0.9464256602521486/150/150",
+      "id": 27
+    },
+    {
+      "albumId": 16,
+      "url": "https://picsum.photos/seed/0.8479534151973485/150/150",
+      "id": 30
+    },
+    {
+      "albumId": 16,
+      "url": "https://picsum.photos/seed/0.6402250138931032/150/150",
+      "id": 32
+    },
+    {
+      "albumId": 17,
+      "url": "https://picsum.photos/seed/0.23406782057462028/150/150",
+      "id": 33
+    },
+    {
+      "albumId": 17,
+      "url": "https://picsum.photos/seed/0.6297709262336297/150/150",
+      "id": 35
+    },
+    {
+      "albumId": 17,
+      "url": "https://picsum.photos/seed/0.47394189368012074/150/150",
+      "id": 36
+    },
+    {
+      "albumId": 17,
+      "url": "https://picsum.photos/seed/0.3627655883688057/150/150",
+      "id": 37
+    },
+    {
+      "albumId": 12,
+      "url": "https://picsum.photos/seed/0.7960285497462936/150/150",
+      "id": 38
+    },
+    {
+      "albumId": 12,
+      "url": "https://picsum.photos/seed/0.020181976817856828/150/150",
+      "id": 39
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/0.13389317370337173/150/150",
+      "id": 40
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/0.9353575142776516/150/150",
+      "id": 41
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/0.5819569057773388/150/150",
+      "id": 42
+    },
+    {
+      "albumId": 12,
+      "url": "https://picsum.photos/seed/0.9951278622426749/150/150",
+      "id": 43
+    },
+    {
+      "albumId": 12,
+      "url": "https://picsum.photos/seed/0.47045162793127293/150/150",
+      "id": 44
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/0.9639425777644541/150/150",
+      "id": 45
+    },
+    {
+      "albumId": 19,
+      "url": "https://picsum.photos/seed/0.5907117589520829/150/150",
+      "id": 47
+    },
+    {
+      "albumId": 19,
+      "url": "https://picsum.photos/seed/0.7648827688886655/150/150",
+      "id": 48
+    },
+    {
+      "albumId": 19,
+      "url": "https://picsum.photos/seed/0.672214400021711/150/150",
+      "id": 49
+    },
+    {
+      "albumId": 19,
+      "url": "https://picsum.photos/seed/0.09044094545750836/150/150",
+      "id": 50
+    }
+  ]
 }
